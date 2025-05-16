@@ -1,0 +1,14 @@
+---
+layout: post
+title: "두번째 포스팅"
+date: 2025-05-16
+---
+
+# 👋 두번째 포스팅
+
+처음으로 만든 나만의 블로그 글이에요!
+
+## 💻 Python 코드도 이렇게 넣을 수 있어요:
+
+```python
+print("Hello, world!")
